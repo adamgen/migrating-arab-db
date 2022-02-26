@@ -1,0 +1,22 @@
+{
+  "name": "arab-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "format": "yarn prettier **.*{mjs,json} --write"
+  },
+  "engines": {
+    "node": "17.6.0"
+  },
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "knex": "^1.0.3",
+    "mysql2": "^2.3.3",
+    "zx": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.1"
+  }
+}
