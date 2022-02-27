@@ -2,3 +2,4 @@ node_modules
 sql-files
 /out/
 /csv-files/
+/mysqldump/
