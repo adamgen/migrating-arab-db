@@ -3,3 +3,5 @@ sql-files
 /out/
 /csv-files/
 /mysqldump/
+
+config/local*json
